@@ -1,0 +1,1 @@
+This repository contains a bug report and solution for a common issue in React Router Dom v6 where no components are rendered, resulting in a blank page. The bug arises from an incorrect nesting of routes within the BrowserRouter component. The solution demonstrates the correct way to nest routes to ensure proper rendering of components.
